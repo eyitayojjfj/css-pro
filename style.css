@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #e3f9ff;
+    font-family: sans-serif;
+}
+.head{
+    color: red;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.hero{
+    text-align: right;
+}
+.hero li{
+    display: inline-block;
+    margin: 10px 20px;
+    list-style: none;  
+    cursor: pointer;
+}
+.asi{
+    padding: 20px;
+    margin-top: 50px;
+}
+.sec{
+    padding-left: 50px;
+    margin-right: 1150px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 20px;
+    color: white;
+}
+.sec form{
+    border: 1px solid black;
+    background: grey;
+    align-items: center;
+    justify-content: center;
+}
+.foot{
+    display: flex;
+    margin-top: 30px;
+   margin-left: 570px;
+}
+
